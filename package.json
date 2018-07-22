@@ -1,0 +1,24 @@
+{
+  "name": "socketio-room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandrakocic/SocketIO-Room.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandrakocic/SocketIO-Room/issues"
+  },
+  "homepage": "https://github.com/aleksandrakocic/SocketIO-Room#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.1.1",
+    "vue": "^2.5.16"
+  }
+}
